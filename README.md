@@ -1,6 +1,12 @@
-# blob-physics
+<div align="center">
 
-A quick 2D liquid blob prototype in Go using [raylib-go](https://github.com/gen2brain/raylib-go).
+<img src="assets/demo.gif" alt="blob physics demo" width="650">
+
+<p><em>A quick 2D liquid blob prototype in Go using <a href="https://github.com/gen2brain/raylib-go">raylib-go</a>.</em></p>
+
+</div>
+
+---
 
 This was my initial physics sandbox before turning it into [Tez](https://github.com/vyrx-dev/tez). Big shoutout to [Tsoding](https://github.com/rexim) — I learned a ton from his streams. His [original experiment](https://gist.github.com/rexim/c1e3c1b99cb824ab6c817c3f45d75564) was written in Rust using raw SDL3, which I rewrote and adapted in Go with Raylib.
 
